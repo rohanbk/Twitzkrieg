@@ -1,0 +1,7 @@
+Twitzkrieg: Real-time Twitter aggregator that uses the Streaming API.
+
+python Twitzkrieg.py [twitter_account_username] [twitter_account_password] [output_file_for_tweets] [script_runtime_in_hours] [script_runtime_in_minutes]
+
+example: python Twitzkrieg.py test testpsd test.txt 7 10 #Run script for 7 hours, 10 minutes, and output tweets into test.txt
+
+
