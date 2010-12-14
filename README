@@ -1,4 +1,4 @@
-Twitzkrieg: Real-time Twitter aggregator that uses the Streaming API.
+Twitzkrieg: Real-time Twitter aggregator that uses the Streaming API. (Requires Tweetstream, and Beautiful Soup modules)
 
 python Twitzkrieg.py [twitter_account_username] [twitter_account_password] [output_file_for_tweets] [script_runtime_in_hours] [script_runtime_in_minutes]
 
