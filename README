@@ -4,4 +4,6 @@ python Twitzkrieg.py [twitter_account_username] [twitter_account_password] [outp
 
 example: python Twitzkrieg.py test testpsd test.txt 7 10 #Run script for 7 hours, 10 minutes, and output tweets into test.txt
 
+Script will then prompt user for search predicates separated by commas (example: elections,vuvuzela,oil-spill)
+
 
